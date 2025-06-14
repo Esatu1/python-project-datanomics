@@ -1,10 +1,10 @@
 # python-project-datanomics
 Python group project for batch 13 at datanomics
 
-Python Capstone Project:
+## Python Capstone Project:
 ---------------
-Due :               June 27, 2025
-Presentation:  June 28, 2025
+Due :               2025/06/27
+Presentation:  2025/06/28
 ----------------
  1. Vending Machine Program
 Build a program that:

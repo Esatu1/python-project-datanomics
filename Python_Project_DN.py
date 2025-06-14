@@ -1,4 +1,4 @@
-# List of item numbers, names, and prices
+# List of item numbers, names, and prices for snacks
 item_numbers = ["1", "2", "3", "4", "5"]
 item_names = ["Chips", "Chocolate Bar", "Soda", "Water", "Cookies"]
 item_prices = [1.50, 2.00, 1.75, 1.25, 2.25]
